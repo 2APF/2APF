@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
  <div>
 <!--   <a href="https://github.com/cassule"> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2APF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api?username=2APF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2APF&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2APF&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -39,12 +39,21 @@ Here are some ideas to get you started:
   
   ##
  
+ 
 <p align="center">
-   <a href="https://www.linkedin.com/in/2apf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <a href="https://www.instagram.com/arturabiliopf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-   <a href = "mailto:arturabiliopf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </p> 
+  <div>
+    <a href="https://www.linkedin.com/in/2apf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
+
+  <div>
+    <a href="https://www.instagram.com/arturabiliopf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
+
+  <div>
+     <a href = "mailto:arturabiliopf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   </p> 
+  </div>
+ </p>
 
 
