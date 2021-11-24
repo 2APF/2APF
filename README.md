@@ -61,15 +61,9 @@ My name is Artur Francisco, I love surfing about life and the farther the better
    <strong>I'm waiting for your contact!</strong>
  
  
-   [![Laravel](https://img.shields.io/badge/laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com/) 
-   [![Laravel](https://img.shields.io/badge/laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com/) 
-  
-  <a href="https://instagram.com/arturabiliopf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- 
-  <a href="https://www.linkedin.com/in/2apf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- 
- 
-  <a href="mailto:arturabiliopf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   [![Instagram](https://img.shields.io/badge/instagram-%23E34F26.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arturabiliopf) 
+   [![Linkedin](https://img.shields.io/badge/linkedin-3178C6?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/2apf)
+   [![Linkedin](https://img.shields.io/badge/gmail-3178C6?logo=gmail&logoColor=23333&style=for-the-badge)](mailto:arturabiliopf@gmail.com)
  
 </div>
 
