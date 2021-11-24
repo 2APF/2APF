@@ -59,6 +59,10 @@ My name is Artur Francisco, I love surfing about life and the farther the better
 
 <div style="display: flex"><br>
    <strong>I'm waiting for your contact!</strong>
+ 
+ 
+   [![Laravel](https://img.shields.io/badge/laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com/) 
+   [![Laravel](https://img.shields.io/badge/laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com/) 
   
   <a href="https://instagram.com/arturabiliopf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
