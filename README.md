@@ -28,7 +28,7 @@ My name is Artur Francisco, I love surfing about life and the farther the better
    [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://www.javascript.com/)
    [![Laravel](https://img.shields.io/badge/laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com/) 
  
-   <strong>Basic - Studying</strong><br
+   <strong>Basic - Studying</strong><br>
    [![ExpressJS](https://img.shields.io/badge/Express-009a36?logo=Express&logoColor=000&style=for-the-badge)](https://expressjs.com/)>
    [![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)  
    [![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)](https://styled-components.com/)
