@@ -1,6 +1,63 @@
 ### Hello, welcome to my profile. 👋
 
 My name is Artur Francisco, I love surfing about life and the farther the better... so I chose to understand the name board "programming" and became a real low surfer to the big waves (web and mobile software developer).
+
+ <div>
+  <a href="https://github.com/orlandinivictor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2APF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2APF&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+
+
+<div style="display: flex"><br>
+   <strong>Main Languages</strong>
+
+   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/) 
+   [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+   [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://www.javascript.com/)
+   [![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](https://www.typescriptlang.org/)
+   [![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)](https://styled-components.com/)
+   [![MaterialUI](https://img.shields.io/badge/MaterialUI-0081CB?logo=Material-UI&logoColor=fff&style=for-the-badge)](https://mui.com/pt/)
+   [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=000&style=for-the-badge)](https://firebase.google.com/)
+ 
+   <strong>Intermediate to Advanced Knowledge</strong><br>
+   [![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff&style=for-the-badge)](https://nodejs.org/en/)
+   [![ExpressJS](https://img.shields.io/badge/Express-009a36?logo=Express&logoColor=000&style=for-the-badge)](https://expressjs.com/)
+   
+   <strong>Basic Knowledge and Studying</strong><br>
+   [![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
+   [![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=000&style=for-the-badge)](https://www.java.com/en/)
+   
+  ![Snake animation](https://github.com/orlandinivictor/orlandinivictor/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
+  
+  ##
+
+
+ 
+<div> 
+  <strong>Contact me!</strong>
+  
+  <a href="https://instagram.com/arturabiliopf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+  <a href="mailto:arturabiliopf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  <a href="https://www.linkedin.com/in/2apf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+
+
+
+
+<!--
+
+### Hello, welcome to my profile. 👋
+
+My name is Artur Francisco, I love surfing about life and the farther the better... so I chose to understand the name board "programming" and became a real low surfer to the big waves (web and mobile software developer).
 <!--
 **2APF/2APF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,38 +75,4 @@ Here are some ideas to get you started:
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=2APF&show_icons=true&hide_border=true)
 
 -->
-
-
- <div>
-<!--   <a href="https://github.com/cassule"> -->
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=2APF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2APF&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
- 
- 
- <div style="display: inline_block">
-<!--   <a href="https://www.linkedin.com/in/2apf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
- 
- <a href="https://www.linkedin.com/in/2apf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <a href="https://www.instagram.com/arturabiliopf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- 
-   <a href="mailto:arturabiliopf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- 
-</div>
-
- 
 
