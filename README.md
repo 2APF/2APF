@@ -30,7 +30,7 @@ My name is Artur Francisco, I love surfing about life and the farther the better
    [![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
    [![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=000&style=for-the-badge)](https://www.java.com/en/)
    
-  ![Snake animation](https://github.com/orlandinivictor/orlandinivictor/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/2APF/2APF/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
