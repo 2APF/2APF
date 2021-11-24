@@ -2,6 +2,13 @@
 
 My name is Artur Francisco, I love surfing about life and the farther the better... so I chose to understand the name board "programming" and became a real low surfer to the big waves (web and mobile software developer).
 
+---
+
+### 🎯 Objective
+<p>📌 Many, like... Conquer the crystal ball.</p> 
+
+---
+
  <div>
   <a href="https://github.com/orlandinivictor">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=2APF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
