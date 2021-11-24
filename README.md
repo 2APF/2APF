@@ -32,7 +32,7 @@ My name is Artur Francisco, I love surfing about life and the farther the better
    [![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)](https://styled-components.com/)
    [![MaterialUI](https://img.shields.io/badge/MaterialUI-0081CB?logo=Material-UI&logoColor=fff&style=for-the-badge)](https://mui.com/pt/)
    [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=000&style=for-the-badge)](https://firebase.google.com/)
-   [![Docker](https://img.shields.io/badge/Docker-FFCA28?logo=Docker&logoColor=000&style=for-the-badge)](https://firebase.google.com/)
+   [![Docker](https://img.shields.io/badge/Docker-FFCA28?logo=Docker&logoColor=fff&style=for-the-badge)](https://docker.org/)
  
   ![Snake animation](https://github.com/orlandinivictor/orlandinivictor/blob/output/github-contribution-grid-snake.svg)
 </div>
