@@ -4,8 +4,8 @@ My name is Artur Francisco, I love surfing about life and the farther the better
 
  <div>
   <a href="https://github.com/orlandinivictor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2APF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2APF&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=2APF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2APF&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
@@ -29,7 +29,7 @@ My name is Artur Francisco, I love surfing about life and the farther the better
    [![Laravel](https://img.shields.io/badge/laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com/) 
  
    <strong>Basic - Studying</strong><br>
-   [![ExpressJS](https://img.shields.io/badge/Express-009a36?logo=Express&logoColor=000&style=for-the-badge)](https://expressjs.com/)>
+   [![ExpressJS](https://img.shields.io/badge/Express-009a36?logo=Express&logoColor=000&style=for-the-badge)](https://expressjs.com/)
    [![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)  
    [![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)](https://styled-components.com/)
    [![MaterialUI](https://img.shields.io/badge/MaterialUI-0081CB?logo=Material-UI&logoColor=fff&style=for-the-badge)](https://mui.com/pt/)
