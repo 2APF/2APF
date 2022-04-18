@@ -17,7 +17,6 @@ My name is Artur Francisco, I love surfing about life and the farther the better
 </div>
 
 
-
 <div style="display: flex"><br>
    <strong>Main Languages/Tools</strong>
 
