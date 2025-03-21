@@ -27,31 +27,31 @@ I'm Artur Francisco, a passionate Software Engineer, Security Researcher, and Cr
 <div style="display: flex"><br>
    <strong>Main Languages/Tools</strong>
 
-   [![Laravel](https://img.shields.io/badge/laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com/) 
+   [![Rust](https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust.com/) 
+   [![Laravel](https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com/) 
    [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/) 
+   [![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)  
    [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-   [![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=000&style=for-the-badge)](https://www.java.com/en/)
-   [![Angular](https://img.shields.io/badge/Angular-007396?logo=Angular&logoColor=000&style=for-the-badge)](https://www.angular.com/)
    [![Vuejs](https://img.shields.io/badge/vue.js-339933?logo=vue.js&logoColor=fff&style=for-the-badge)](https://www.vuejs.com/)
    [![ExpressJS](https://img.shields.io/badge/Express-009a36?logo=Express&logoColor=000&style=for-the-badge)](https://expressjs.com/) 
-   [![Next.js](https://img.shields.io/badge/next.js-3776ab?logo=next.js&logoColor=000&style=for-the-badge)](https://nextjs.org/) 
-   [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3776ab?logo=tailwindcss&logoColor=14145a&style=for-the-badge)](https://tailwindcss.com/) 
- 
-   <strong>Intermediate - Advanced</strong><br>
-   [![PHP](https://img.shields.io/badge/php-3178C6?logo=php&logoColor=fff&style=for-the-badge)](https://www.php.org/)
-   [![React](https://img.shields.io/badge/react-3776ab?logo=react&logoColor=14145a&style=for-the-badge)](https://reactjs.org/) 
-   [![Deno](https://img.shields.io/badge/deno-3776ab?logo=deno&logoColor=14145a&style=for-the-badge)](https://deno.land/) 
-   [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://www.javascript.com/)
-   [![Laravel](https://img.shields.io/badge/laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com/)
    [![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](https://www.typescriptlang.org/)
+   [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://www.javascript.com/)
    [![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff&style=for-the-badge)](https://nodejs.org/en/)
  
-   <strong>Basic - Studying</strong><br>
-   [![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)  
-   [![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)](https://styled-components.com/)
-   [![MaterialUI](https://img.shields.io/badge/MaterialUI-0081CB?logo=Material-UI&logoColor=fff&style=for-the-badge)](https://mui.com/pt/)
+   <strong>Intermediate - Advanced</strong><br>
+   [![Next.js](https://img.shields.io/badge/next.js-3776ab?logo=next.js&logoColor=000&style=for-the-badge)](https://nextjs.org/) 
+   [![PHP](https://img.shields.io/badge/php-3178C6?logo=php&logoColor=fff&style=for-the-badge)](https://www.php.org/)
+   [![React](https://img.shields.io/badge/react-3776ab?logo=react&logoColor=14145a&style=for-the-badge)](https://reactjs.org/) 
+   [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3776ab?logo=tailwindcss&logoColor=14145a&style=for-the-badge)](https://tailwindcss.com/) 
+   [![Deno](https://img.shields.io/badge/deno-3776ab?logo=deno&logoColor=14145a&style=for-the-badge)](https://deno.land/) 
+   [![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=000&style=for-the-badge)](https://www.java.com/en/)
    [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=000&style=for-the-badge)](https://firebase.google.com/)
    [![Docker](https://img.shields.io/badge/docker-%23E34F26.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docker.org/)
+ 
+   <strong>Basic - Studying</strong><br>
+   [![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)](https://styled-components.com/)
+   [![Angular](https://img.shields.io/badge/Angular-007396?logo=Angular&logoColor=000&style=for-the-badge)](https://www.angular.com/)
+   [![MaterialUI](https://img.shields.io/badge/MaterialUI-0081CB?logo=Material-UI&logoColor=fff&style=for-the-badge)](https://mui.com/pt/)
 
  
   ![Snake animation](https://github.com/2APF/2APF/blob/output/github-contribution-grid-snake.svg)
@@ -73,7 +73,7 @@ I'm Artur Francisco, a passionate Software Engineer, Security Researcher, and Cr
  
    [![Instagram](https://img.shields.io/badge/instagram-%23E34F26.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arturabiliopf) 
    [![Linkedin](https://img.shields.io/badge/linkedin-3178C6?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/2apf)
-   [![Linkedin](https://img.shields.io/badge/gmail-3178C6?logo=gmail&logoColor=23333&style=for-the-badge)](mailto:arturabiliopf@gmail.com)
+   [![X]([https://img.shields.io/badge/linkedin-3178C6?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/2apf](https://img.shields.io/badge/x-3178C6?logo=x&logoColor=fff&style=for-the-badge)](https://https://x.com/arturapf))
  
 </div>
 
