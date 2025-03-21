@@ -1,11 +1,18 @@
 ### Hello, welcome to my profile. 👋
 
-My name is Artur Francisco, I love surfing about life and the farther the better... so I chose to understand the name board "programming" and became a real low surfer to the big waves (web and mobile software developer).
+I'm Artur Francisco, a passionate Software Engineer, Security Researcher, and Cryptography Expert with a strong focus on Rust, Web3, Blockchain, Kyber, and HSM technologies. My expertise spans low-level systems programming, secure infrastructure, and high-performance software development.
 
----
+🚀 About Me
 
-### 🎯 Objective
-<p>📌 Many, like... Conquer the crystal ball.</p> 
+🔐 Security & Cryptography: Deeply involved in cryptographic protocols, API security, and blockchain security audits.
+
+💻 Systems & Web Development: Building scalable, secure, and high-performance systems using Rust, TypeScript, and other cutting-edge technologies.
+
+🌐 Web3 & Blockchain: Developing decentralized applications (DApps), smart contracts, and blockchain security solutions.
+
+📡 Hardware Security: Working with HSMs, encryption schemes, and secure key management.
+
+📊 Research & Innovation: Passionate about breaking and securing systems, contributing to open-source projects, and continuously learning.
 
 ---
 
