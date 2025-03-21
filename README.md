@@ -73,7 +73,7 @@ I'm Artur Francisco, a passionate Software Engineer, Security Researcher, and Cr
  
    [![Instagram](https://img.shields.io/badge/instagram-%23E34F26.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arturabiliopf) 
    [![Linkedin](https://img.shields.io/badge/linkedin-3178C6?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/2apf)
-   [![X]([https://img.shields.io/badge/linkedin-3178C6?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/2apf](https://img.shields.io/badge/x-3178C6?logo=x&logoColor=fff&style=for-the-badge)](https://https://x.com/arturapf))
+   [![X]([https://img.shields.io/badge/x-3178C6?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/arturapf](https://img.shields.io/badge/x-3178C6?logo=x&logoColor=fff&style=for-the-badge)](https://https://x.com/arturapf))
  
 </div>
 
